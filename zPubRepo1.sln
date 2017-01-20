@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPubRepoProj1", "zPubRepoPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPubRepoProj2", "zPubRepoProj2\zPubRepoProj2.csproj", "{D4259F61-21CA-4347-99DB-925EAFF61AE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPubRepoProj3", "zPubRepoProj3\zPubRepoProj3.csproj", "{CE014C0D-6B19-4FC1-96DB-73F14AED7243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE014C0D-6B19-4FC1-96DB-73F14AED7243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE014C0D-6B19-4FC1-96DB-73F14AED7243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE014C0D-6B19-4FC1-96DB-73F14AED7243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE014C0D-6B19-4FC1-96DB-73F14AED7243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
