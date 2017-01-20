@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPubRepoProj1", "zPubRepoProj1\zPubRepoProj1.csproj", "{CD3BC158-DE40-4487-A08C-67E99E58EC4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zPubRepoProj2", "zPubRepoProj2\zPubRepoProj2.csproj", "{D4259F61-21CA-4347-99DB-925EAFF61AE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CD3BC158-DE40-4487-A08C-67E99E58EC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD3BC158-DE40-4487-A08C-67E99E58EC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD3BC158-DE40-4487-A08C-67E99E58EC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4259F61-21CA-4347-99DB-925EAFF61AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
